@@ -3,23 +3,23 @@
 
 <link rel="stylesheet" href="styles.css" type="text/css">
 
-Statistical Inference I, Grader (Fall 2019)
+Statistical Inference I, Grader (Fall 2019)  
 Department of Biostatistics, Brown University
 
-Biostatistics Bootcamp, Co-Instructor (Summer 2019)
+Biostatistics Bootcamp, Co-Instructor (Summer 2019)  
 Department of Biostatistics, Brown University
 
-Bayesian Statistical Analysis, TA (Spring 2019)
+Bayesian Statistical Analysis, TA (Spring 2019)  
 Department of Biostatistics, Brown University
 
-Applied Statistics, TA (Summer 2018)
+Applied Statistics, TA (Summer 2018)  
 Summer at Brown, Brown University
 
-Applied Generalized Linear Models, TA (Spring 2018)
+Applied Generalized Linear Models, TA (Spring 2018)  
 Department of Biostatistics, Brown University
 
-General, TA (Spring 2013 - Spring 2014)
+General, TA (Spring 2013 - Spring 2014)  
 Department of Mathematics \& Statistics, Smith College
 
-Introduction to Statistics, Grader (Spring 2013)
+Introduction to Statistics, Grader (Spring 2013)  
 Department of Mathematics \& Statistics, Smith College
