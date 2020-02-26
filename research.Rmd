@@ -1,0 +1,10 @@
+---
+---
+
+<link rel="stylesheet" href="styles.css" type="text/css">
+
+#### Interpreting Deep Neural Networks through Variable Importance
+</br>
+Deep neural networks are known for impressive predictive performance, but our ability to explain and interpret these models is limited. We extend a recently developed variable importance measure [RelATive cEntrality (RATE)](https://www.semanticscholar.org/paper/Variable-Prioritization-in-Nonlinear-Black-Box-A-Crawford-Flaxman/ba5ddc0ac2f4fe72d5255e493b2cf02bea01025f) (Crawford et al., 2019) to Bayesian neural networks. We also reformulate to assess the influence of both individual and grouped inputs, relevant when clusters of related variables jointly contribute to an outcome.
+
+The preprint is available on [arXiv](https://arxiv.org/abs/1901.09839).

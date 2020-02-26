@@ -1,0 +1,22 @@
+name: "Dana Udwin"
+output_dir: "."
+navbar:
+  title: "Dana Udwin"
+  left:
+    - text: "Teaching"
+      href: teaching.html
+    - text: "Research"
+      href: research.html
+  right:
+    - icon: fa-envelope fa-lg
+      href: contact.html
+    - icon: fa-github fa-lg
+      href: http://github.com/dudwin
+    - icon: fa-twitter fa-lg
+      href: https://twitter.com/danascientist
+    - icon: fa-linkedin fa-lg
+      href: https://www.linkedin.com/in/dudwin
+output:
+  html_document:
+    theme: paper
+    css: 'styles.css'
