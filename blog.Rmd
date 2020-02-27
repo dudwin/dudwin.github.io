@@ -20,8 +20,8 @@ October 21, 2019
 
 "The cardinal sin of every poster I've seen, including the posters I've designed myself, is that they assume people are going to stand there and read our posters in silence for 10 straight minutes, following the order of the sections we've laid out," argues Mike Morrison in a recent [Youtube video](https://www.youtube.com/watch?v=1RwJbhkCA58).
 
-Morrison is an organizational psychology student at Michigan State who believes there is a better way to share knowledge at conferences. His [#betterposter template](https://osf.io/ef53g/) is dominated by a center panel describing the presenter's contribution to science in one supersized sentence. The limited real estate left forces extraneous words and plots to the cutting room floor.
+Morrison is an organizational psychology student at Michigan State who believes there is a better way to share knowledge at conferences. His [#betterposter template](https://osf.io/ef53g/) is dominated by a center panel summarizing the presenter's scientific contribution in one supersized sentence. The limited real estate remaining forces extraneous words and plots to the cutting room floor.
 
 Not everyone agrees with Morrison's streamlined design. The format sparked heated debate at my department's PhD student journal club this week. It became clear that our disagreement stemmed from one contested question: what _is_ the purpose of a poster session, anyway? Is it to connect with the few subject matter experts who will understand a more detailed poster? Or to disseminate your findings to a wide audience?
 
-We'll see how my adoption of the #betterposter template is received at [Public Health Research Day](https://www.brown.edu/academics/public-health/public-health-research-day) in April. Until then, my internal jury remains hung.
+We'll see how my adoption of the #betterposter template is received at [Public Health Research Day](https://www.brown.edu/academics/public-health/public-health-research-day) in April. Until then, my internal jury is out.
