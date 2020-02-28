@@ -3,13 +3,13 @@
 
 <link rel="stylesheet" href="styles.css" type="text/css">
 
-Statistical Inference I, Grader (Fall 2019)  
+[Statistical Inference I](inf1fa2019.html), Grader (Fall 2019)  
 Department of Biostatistics, Brown University
 
-Biostatistics Bootcamp, Co-Instructor (Summer 2019)  
+[Biostatistics Bootcamp](bootcampsu2019.html), Co-Instructor (Summer 2019)  
 Department of Biostatistics, Brown University
 
-Bayesian Statistical Analysis, TA (Spring 2019)  
+[Bayesian Statistical Analysis](bayesiansp2019.html), TA (Spring 2019)  
 Department of Biostatistics, Brown University
 
 Applied Statistics, TA (Summer 2018)  

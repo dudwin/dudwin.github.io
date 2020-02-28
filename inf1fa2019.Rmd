@@ -1,0 +1,16 @@
+---
+---
+
+<link rel="stylesheet" href="styles.css" type="text/css">
+
+#### PHP 2520: Statistical Inference I  
+##### Grader  
+<br/>
+
+##### Course Description  
+
+First of two courses that provide a comprehensive introduction to the theory of modern statistical inference. PHP 2520 presents a survey of fundamental ideas and methods, including sufficiency, likelihood based inference, hypothesis testing, asymptotic theory, and Bayesian inference. Measure theory not required. Open to advanced undergraduates with permission from the instructor.
+
+##### Role
+
+I graded eight homework assignments for nine students. Problems are primarily from [_Statistical Inference_, Casella \& Berger](https://www.amazon.com/Statistical-Inference-George-Casella/dp/0534243126). 

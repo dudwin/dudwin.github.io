@@ -1,0 +1,16 @@
+---
+---
+
+<link rel="stylesheet" href="styles.css" type="text/css">
+
+#### Biostatistics Bootcamp 
+##### Co-Instructor  
+<br/>
+
+##### Course Description  
+
+Week-long "warm-up" required for incoming M.S. students and recommended for incoming Ph.D. students. Topics cover calculus, R, probability, descriptive statistics and data visualization, multiple random variables, matrix algebra and topics in programming.
+
+##### Role
+
+With lead instructor [Sam Morrison](https://www.sammorrisonstats.com/), I revised materials from the previous year's bootcamp and split teaching days. 
