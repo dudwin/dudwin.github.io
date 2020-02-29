@@ -1,0 +1,16 @@
+---
+---
+
+<link rel="stylesheet" href="styles.css" type="text/css">
+
+#### PHP 2514: Applied Generalized Linear Models  
+##### Teaching Assistant  
+<br/>
+
+##### Course Description  
+
+This course provides a survey of generalized linear models (GLMs) for outcomes including continuous, binary, count, survival and correlated data. This course will work through the basic theories of GLMs. Emphasis will be on understanding the implications of this theory and the applications to solving real data problems. Extensive use of computer programming will be required to analyze the data in this class. This course is designed for graduate and advanced undergraduate students who will be analyzing data and want to develop a practical hands on toolkit as well as understanding of the theoretical underpinnings of regression.
+
+##### Role
+
+I conducted office hours for two hours twice-a-week, typically reviewing the homework problems and working through coding challenges. I graded six problem sets for twenty-five M.S. students. The textbooks were [_Data Analysis Using Regression and Multilevel/Hierarchical Models_, Gelman \& Hill](http://www.stat.columbia.edu/~gelman/arm/) and [_Statistical Regression and Classification_, Matloff](https://www.crcpress.com/Statistical-Regression-and-Classification-From-Linear-Models-to-Machine/Matloff/p/book/9781498710916).

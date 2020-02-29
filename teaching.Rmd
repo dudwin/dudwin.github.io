@@ -12,10 +12,10 @@ Department of Biostatistics, Brown University
 [Bayesian Statistical Analysis](bayesiansp2019.html), TA (Spring 2019)  
 Department of Biostatistics, Brown University
 
-Applied Statistics, TA (Summer 2018)  
+[Applied Statistics](summeratbrownsu2018.html), TA (Summer 2018)  
 Summer at Brown, Brown University
 
-Applied Generalized Linear Models, TA (Spring 2018)  
+[Applied Generalized Linear Models](appliedglmsp2018.html), TA (Spring 2018)  
 Department of Biostatistics, Brown University
 
 General, TA (Spring 2013 - Spring 2014)  

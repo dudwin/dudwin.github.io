@@ -1,0 +1,23 @@
+---
+---
+
+<link rel="stylesheet" href="styles.css" type="text/css">
+
+#### CEMA 0907: Applied Statistics
+##### Teaching Assistant  
+<br/>
+
+##### Course Description 
+
+[Summer\@Brown](https://precollege.brown.edu/summeratbrown/) is a pre-college program for industrious high school students eager to sample undergraduate-level academics.
+
+Statistics is the science of collecting and interpreting data. The Summer\@Brown course
+has been designed exclusively so that students can learn statistics, be able to present their work to their peers, and have fun doing so. The points of this course include:
+1. The development and understanding of the most common statistical tools, including confidence intervals and hypothesis testing.  
+2. To be able to distinguish real world relevance of terms like statistical significance, experiment design, and interpretation of results.  
+3. Apply statistical tools to answer questions in whatever topics the students are interested in.  
+4. Develop skills such as reading statistics in the news, presenting using Microsoft PowerPoint, and computing using R.
+
+##### Role
+
+I floated around the classroom providing hands-on assistance with statistical concepts and R programming. I graded five problem sets for eleven students. Class was held daily for three weeks. 
