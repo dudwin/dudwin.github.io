@@ -1,0 +1,16 @@
+---
+---
+
+<link rel="stylesheet" href="styles.css" type="text/css">
+
+#### PHP 2520: Statistical Inference I  
+##### Grader  
+<br/>
+
+##### Course Description  
+
+Systematic overview of modern statistical methods for handling incomplete data and for drawing causal inferences from "broken experiments" and observational studies. Topics include modeling approaches, propensity score adjustment, instrumental variables, inverse weighting methods and sensitivity analysis. Case studies used throughout to illustrate ideas and concepts.
+
+##### Role
+
+TBD. The missing data portion of the course draws upon material from different sources. The causal inference portion of the course relies primarily on [_Causal Inference in Statistics: A Primer_, Pearl J., Glymour M., Jewell N.P.](http://bayes.cs.ucla.edu/PRIMER/) and [_Causality_, Pearl J.](http://bayes.cs.ucla.edu/BOOK-2K/).

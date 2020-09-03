@@ -7,7 +7,7 @@
 
 <img src="2019_SpringPoster-42.jpg" style="width:30%; border:2px solid; border-color:#6a737d; margin-right: 20px" align="left">
 
-I am a third-year doctoral student in the [Department of Biostatistics](https://www.brown.edu/academics/public-health/biostats/home) at the Brown University School of Public Health, where I explore interpretability in machine learning and Bayesian methodology under the advisement of [Dr. Lorin Crawford](http://www.lcrawlab.com).
+I am a fourth-year doctoral student in the [Department of Biostatistics](https://www.brown.edu/academics/public-health/biostats/home) at the Brown University School of Public Health, where I explore interpretability in machine learning and Bayesian methodology under the advisement of [Dr. Lorin Crawford](http://www.lcrawlab.com).
 
 I was a member of the inaugural [Data Science Development Program](https://datascience.massmutual.com/dsdp) class at MassMutual Financial Group. I hold an M.S. in Statistics from the University of Massachusetts Amherst and a B.A. in Mathematics from Smith College.
 
