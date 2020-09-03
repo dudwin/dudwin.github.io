@@ -3,8 +3,8 @@
 
 <link rel="stylesheet" href="styles.css" type="text/css">
 
-#### PHP 2520: Statistical Inference I  
-##### Grader  
+#### PHP 2610: Causal Inference
+##### Teaching Assistant  
 <br/>
 
 ##### Course Description  
