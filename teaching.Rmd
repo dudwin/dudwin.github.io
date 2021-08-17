@@ -1,12 +1,11 @@
----
----
+
 
 <link rel="stylesheet" href="styles.css" type="text/css">
 
 [Causal Inference](causalfa2020.html), Teaching Assistant (Fall 2020)  
 Department of Biostatistics, Brown University
 
-[Biostatistics Bootcamp](bootcampsu2019.html), Co-Instructor (Summer 2019, Summer 2020)  
+[Biostatistics Bootcamp](bootcampsu2019.html), Co-Instructor (Summer 2019, Summer 2020, Summer 2021)  
 Department of Biostatistics, Brown University
 
 [Statistical Inference I](inf1fa2019.html), Grader (Fall 2019)  
