@@ -1,12 +1,12 @@
 
 <link rel="stylesheet" href="styles.css" type="text/css">
 
+<div id="profilepanel" style="height: 100%">
 <img src="20210224-Dana Udwin headshot-08.jpg" class="clipped" style="width: 33%; float: left"/>
+</div>
 
-I am a fifth-year doctoral student in the [Department of Biostatistics](https://www.brown.edu/academics/public-health/biostats/home) at the Brown University School of Public Health, where I explore interpretability in machine learning and Bayesian methodology under the advisement of [Dr. Lorin Crawford](http://www.lcrawlab.com).
+I recently completed my doctorate in [Biostatistics at the Brown University School of Public Health](https://www.brown.edu/academics/public-health/biostats/home), where I explored interpretability in machine learning and non-additive variance estimation in the [Crawford Lab](http://www.lcrawlab.com).
 
-I was a member of the inaugural [Data Science Development Program](https://datascience.massmutual.com/dsdp) class at MassMutual Financial Group. I hold an M.S. in Statistics from the University of Massachusetts Amherst and a B.A. in Mathematics from Smith College.
+Outside of academia, I have worked as a data scientist in all types of places, from Big Tech to nonprofit think tank. I hold an M.S. in Statistics from University of Massachusetts Amherst and a B.A. in Mathematics from Smith College.
 
-In my spare time, I am learning Chinese and surveying the local coffee scene.
-
-My full CV is available [here](CV.pdf).
+In my spare time, I am knitting [an Icelandic sweater](https://www.ravelry.com/patterns/library/riddari) and working on my conversational Chinese.

@@ -2,6 +2,11 @@
 
 <link rel="stylesheet" href="styles.css" type="text/css">
 
+My approach to teaching is laid-back. I will explain difficult concepts in as many ways as there are individual learning styles in a classroom. I'm even known for creating the answer key before office hours so that I can best anticipate students' needs A professional fun fact: student questions are my favorite emails to answer! Check out some of my experience below.
+
+</br>
+</br>
+
 [Causal Inference](causalfa2020.html), Teaching Assistant (Fall 2020)  
 Department of Biostatistics, Brown University
 
@@ -11,17 +16,17 @@ Department of Biostatistics, Brown University
 [Statistical Inference I](inf1fa2019.html), Grader (Fall 2019)  
 Department of Biostatistics, Brown University
 
-[Bayesian Statistical Analysis](bayesiansp2019.html), TA (Spring 2019)  
+[Bayesian Statistical Analysis](bayesiansp2019.html), Teaching Assistant (Spring 2019)  
 Department of Biostatistics, Brown University
 
-[Applied Statistics](summeratbrownsu2018.html), TA (Summer 2018)  
+[Applied Statistics](summeratbrownsu2018.html), Teaching Assistant (Summer 2018)  
 Summer at Brown, Brown University
 
-[Applied Generalized Linear Models](appliedglmsp2018.html), TA (Spring 2018)  
+[Applied Generalized Linear Models](appliedglmsp2018.html), Teaching Assistant (Spring 2018)
 Department of Biostatistics, Brown University
 
-General, TA (Spring 2013 - Spring 2014)  
-Department of Mathematics \& Statistics, Smith College
+General, Teaching Assistant (Spring 2013 - Spring 2014)  
+Department of Mathematics and Statistics, Smith College
 
 Introduction to Statistics, Grader (Spring 2013)  
-Department of Mathematics \& Statistics, Smith College
+Department of Mathematics and Statistics, Smith College

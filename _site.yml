@@ -10,6 +10,8 @@ navbar:
       href: research.html
     - text: "Blog"
       href: blog.html
+    - text: "CV"
+      href: CV.pdf
   right:
     - icon: fa-envelope fa-lg
       href: contact.html

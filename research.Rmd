@@ -3,8 +3,36 @@
 
 <link rel="stylesheet" href="styles.css" type="text/css">
 
-#### Interpreting Deep Neural Networks through Variable Importance
-</br>
-Deep neural networks are known for impressive predictive performance, but our ability to explain and interpret these models is limited. We extend a recently developed variable importance measure [RelATive cEntrality (RATE)](https://www.semanticscholar.org/paper/Variable-Prioritization-in-Nonlinear-Black-Box-A-Crawford-Flaxman/ba5ddc0ac2f4fe72d5255e493b2cf02bea01025f) (Crawford et al., 2019) to Bayesian neural networks. We assess the influence of both individual and grouped inputs, relevant when clusters of related variables jointly contribute to an outcome.
+My dissertation research focused on heterogeneity estimation in challenging generative scenarios: imagine high-order effects that you either don't know or can't enumerate, or synthesizing learnings from multiple, incomplete data sets that suffer from missingness. A selection of pre-prints and publications are listed below.
 
-The preprint is available on [arXiv](https://arxiv.org/abs/1901.09839).
+
+</br>
+</br>
+
+
+_Partitioning
+Marginal Epistasis Distinguishes Nonlinear Effects from Polygenicity and
+Other Biases in GWA Summary Statistics_ <br/>
+Darnell, G., Smith, S.P., Udwin, D., Ramachandran, S., Crawford, L. (2022) <br/> [bioRxiv](https://www.biorxiv.org/content/10.1101/2022.07.21.501001v2).
+
+_A Group Variable Importance Framework for Bayesian Neural Networks_ <br/>
+Ish-Horowicz\*, J., Udwin\*, D., Kolbeinsson, A., Scharfstein, K., Flaxman, S.,
+Crawford$\dagger$, L., Filippi$\dagger$, S. (2019) <br/>
+[arXiv](https://arxiv.org/abs/1901.09839). <br/> 
+\*Authors contributed equally; <br/>
+$\dagger$Authors contributed equally
+
+_R Markdown_ <br/>
+Baumer, B., Udwin, D. (2015) <br/>
+[WIREs: Computational Statistics](https://wires.onlinelibrary.wiley.com/doi/abs/10.1002/wics.1348).
+
+_What Percent of the Continental
+US is Within One Mile of a Road?_ <br/>
+Stoudt, S., Cao, Y., Udwin, D., Horton, N.J. (2014) <br/>
+[STatistics Education Web](http://me414-unicamp.github.io/aulas/slides/atividade-parte15b/suppMat/PercentWithinMileofRoad.pdf).
+
+<!-- #### Interpreting Deep Neural Networks through Variable Importance -->
+<!-- </br> -->
+<!-- Deep neural networks are known for impressive predictive performance, but our ability to explain and interpret these models is limited. We extend a recently developed variable importance measure [RelATive cEntrality (RATE)](https://www.semanticscholar.org/paper/Variable-Prioritization-in-Nonlinear-Black-Box-A-Crawford-Flaxman/ba5ddc0ac2f4fe72d5255e493b2cf02bea01025f) (Crawford et al., 2019) to Bayesian neural networks. We assess the influence of both individual and grouped inputs, relevant when clusters of related variables jointly contribute to an outcome. -->
+
+<!-- The preprint is available on [arXiv](https://arxiv.org/abs/1901.09839). -->

@@ -13,4 +13,4 @@ Systematic overview of modern statistical methods for handling incomplete data a
 
 ##### Role
 
-TBD. The missing data portion of the course draws upon material from different sources. The causal inference portion of the course relies primarily on [_Causal Inference in Statistics: A Primer_, Pearl J., Glymour M., Jewell N.P.](http://bayes.cs.ucla.edu/PRIMER/) and [_Causality_, Pearl J.](http://bayes.cs.ucla.edu/BOOK-2K/).
+I held office hours and graded three homework assignments for twenty students. The missing data portion of the course draws upon material from different sources. The causal inference portion of the course relies primarily on [_Causal Inference in Statistics: A Primer_, Pearl J., Glymour M., Jewell N.P.](http://bayes.cs.ucla.edu/PRIMER/) and [_Causality_, Pearl J.](http://bayes.cs.ucla.edu/BOOK-2K/).

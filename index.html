@@ -11,10 +11,10 @@
 
 
 
-<title>index.utf8</title>
+<title>index.knit</title>
 
-<script src="site_libs/header-attrs-2.7/header-attrs.js"></script>
-<script src="site_libs/jquery-1.11.3/jquery.min.js"></script>
+<script src="site_libs/header-attrs-2.14/header-attrs.js"></script>
+<script src="site_libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <link href="site_libs/bootstrap-3.3.5/css/paper.min.css" rel="stylesheet" />
 <script src="site_libs/bootstrap-3.3.5/js/bootstrap.min.js"></script>
@@ -59,6 +59,7 @@ if (window.hljs) {
 
 
 
+
 <link rel="stylesheet" href="styles.css" type="text/css" />
 
 
@@ -83,6 +84,9 @@ button.code-folding-btn:focus {
 }
 summary {
   display: list-item;
+}
+details > summary > p:only-child {
+  display: inline;
 }
 pre code {
   padding: 0;
@@ -235,7 +239,7 @@ $(document).ready(function () {
 <div class="navbar navbar-default  navbar-fixed-top" role="navigation">
   <div class="container">
     <div class="navbar-header">
-      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-bs-toggle="collapse" data-target="#navbar" data-bs-target="#navbar">
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
@@ -257,25 +261,25 @@ $(document).ready(function () {
       <ul class="nav navbar-nav navbar-right">
         <li>
   <a href="contact.html">
-    <span class="fas fa-envelope fa-lg"></span>
+    <span class="fa fa-envelope fa-lg"></span>
      
   </a>
 </li>
 <li>
   <a href="http://github.com/dudwin">
-    <span class="fas fa-github fa-lg"></span>
+    <span class="fa fa-github fa-lg"></span>
      
   </a>
 </li>
 <li>
   <a href="https://twitter.com/danascientist">
-    <span class="fas fa-twitter fa-lg"></span>
+    <span class="fa fa-twitter fa-lg"></span>
      
   </a>
 </li>
 <li>
   <a href="https://www.linkedin.com/in/dudwin">
-    <span class="fas fa-linkedin fa-lg"></span>
+    <span class="fa fa-linkedin fa-lg"></span>
      
   </a>
 </li>
@@ -293,10 +297,22 @@ $(document).ready(function () {
 
 
 <p><link rel="stylesheet" href="styles.css" type="text/css"></p>
+<div id="profilepanel" style="height: 100%">
 <p><img src="20210224-Dana%20Udwin%20headshot-08.jpg" class="clipped" style="width: 33%; float: left"/></p>
-<p>I am a fifth-year doctoral student in the <a href="https://www.brown.edu/academics/public-health/biostats/home">Department of Biostatistics</a> at the Brown University School of Public Health, where I explore interpretability in machine learning and Bayesian methodology under the advisement of <a href="http://www.lcrawlab.com">Dr. Lorin Crawford</a>.</p>
-<p>I was a member of the inaugural <a href="https://datascience.massmutual.com/dsdp">Data Science Development Program</a> class at MassMutual Financial Group. I hold an M.S. in Statistics from the University of Massachusetts Amherst and a B.A. in Mathematics from Smith College.</p>
-<p>In my spare time, I am learning Chinese and surveying the local coffee scene.</p>
+</div>
+<p>I recently completed my doctorate in <a
+href="https://www.brown.edu/academics/public-health/biostats/home">Biostatistics
+at the Brown University School of Public Health</a>, where I explored
+interpretability in machine learning and non-additive variance
+estimation in the <a href="http://www.lcrawlab.com">Crawford
+Lab</a>.</p>
+<p>Outside of academia, I have worked as a data scientist in all types
+of places, from Big Tech to nonprofit think tank. I hold an M.S. in
+Statistics from University of Massachusetts Amherst and a B.A. in
+Mathematics from Smith College.</p>
+<p>In my spare time, I am knitting <a
+href="https://www.ravelry.com/patterns/library/riddari">an Icelandic
+sweater</a> and working on my conversational Chinese.</p>
 <p>My full CV is available <a href="CV.pdf">here</a>.</p>
 
 
