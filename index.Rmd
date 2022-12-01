@@ -1,9 +1,8 @@
 
 <link rel="stylesheet" href="styles.css" type="text/css">
 
-<div id="profilepanel" style="height: 100%">
 <img src="20210224-Dana Udwin headshot-08.jpg" class="clipped" style="width: 33%; float: left"/>
-</div>
+
 
 I recently completed my doctorate in [Biostatistics at the Brown University School of Public Health](https://www.brown.edu/academics/public-health/biostats/home), where I explored interpretability in machine learning and non-additive variance estimation in the [Crawford Lab](http://www.lcrawlab.com).
 
