@@ -1,7 +1,13 @@
 ---
+title: "blog"
 ---
 
 <link rel="stylesheet" href="styles.css" type="text/css">
+<style>
+  .title{
+    display: none;
+  }
+</style>
 
 #### Book Recommendation  
 ##### Mind and Matter: A Life in Math and Football  

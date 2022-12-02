@@ -1,7 +1,13 @@
 ---
+title: "research"
 ---
 
 <link rel="stylesheet" href="styles.css" type="text/css">
+<style>
+  .title{
+    display: none;
+  }
+</style>
 
 My dissertation research focused on heterogeneity estimation in challenging generative scenarios: imagine high-order effects that you either don't know or can't enumerate, or synthesizing learnings from multiple, incomplete data sets that suffer from missingness. A selection of pre-prints and publications are listed below.
 

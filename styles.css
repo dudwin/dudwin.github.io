@@ -20,8 +20,12 @@ transform: rotate(270deg);
 /** 1. Change the default font family in all browsers (opinionated). 2. Prevent adjustments of font size after orientation changes in IE and iOS. */
 html { font-family: sans-serif; /* 1 */ -ms-text-size-adjust: 100%; /* 2 */ -webkit-text-size-adjust: 100%; /* 2 */ }
 
+/** DANA EDIT: actually, add some margin to body*/
+body { margin: 10px; }
 /** Remove the margin in all browsers (opinionated). */
-body { margin: 0; }
+/* body { margin: 0; } */
+
+
 
 /* HTML5 display definitions ========================================================================== */
 /** Add the correct display in IE 9-. 1. Add the correct display in Edge, IE, and Firefox. 2. Add the correct display in IE. */
