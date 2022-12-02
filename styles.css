@@ -23,10 +23,9 @@ transform: rotate(270deg);
 html { font-family: sans-serif; /* 1 */ -ms-text-size-adjust: 100%; /* 2 */ -webkit-text-size-adjust: 100%; /* 2 */ }
 
 /** DANA EDIT: actually, add some margin to body*/
-/** body { margin: 100px; } */
-
+body { padding-top: 70px; }
 /** Remove the margin in all browsers (opinionated). */
-body { margin: 0; }
+/* body { margin: 0; } */
 
 
 
