@@ -22,7 +22,8 @@ transform: rotate(270deg);
 /** 1. Change the default font family in all browsers (opinionated). 2. Prevent adjustments of font size after orientation changes in IE and iOS. */
 html { font-family: sans-serif; /* 1 */ -ms-text-size-adjust: 100%; /* 2 */ -webkit-text-size-adjust: 100%; /* 2 */ }
 
-/** DANA EDIT: actually, add some margin to body*/
+/** DANA EDIT: actually, add some margin to body, otherwise 
+the navbar hangs over it */
 body { padding-top: 70px; }
 /** Remove the margin in all browsers (opinionated). */
 /* body { margin: 0; } */
@@ -31,7 +32,12 @@ body { padding-top: 70px; }
 
 /* HTML5 display definitions ========================================================================== */
 /** Add the correct display in IE 9-. 1. Add the correct display in Edge, IE, and Firefox. 2. Add the correct display in IE. */
-article, aside, details, figcaption, figure, footer, header, main, menu, nav, section { /* 1 */ display: block; }
+article, aside, details, figcaption, figure, footer, nav, header, menu, main, section { /* 1 */ display: block; }
+
+/* dana edit: try giving nav a display flex??? so that way, you can still see all the clickable things when browser page is tiny
+REMOVE nav FROM ABOVE LIST FOR display:block TO DO THIS */
+/*nav, header, menu { display: flex; justify-content:space-between}*/
+
 
 summary { display: list-item; }
 
